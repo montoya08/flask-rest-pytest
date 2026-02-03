@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: flask_rest_pytest
+Version: 1.0.0
+Requires-Dist: flask
+Requires-Dist: pytest
+Requires-Dist: requests
+Dynamic: requires-dist
